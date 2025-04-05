@@ -22,6 +22,26 @@ Approve loan requests from women entrepreneurs
 
 Track loans that have been funded
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Technology Stack
 Layer	Technology
 Frontend	HTML, CSS, JavaScript
